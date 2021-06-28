@@ -1,0 +1,163 @@
+@media(min-width:800px){
+    h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    background-color: turquoise;
+    border: 100px;
+    padding: 10px;
+    font-weight: 50px;
+    margin: 20px;
+}
+.input1{
+    border-radius: 1.5px;
+    border: skyblue solid;
+    width: 320px;
+    height: 40px;
+    margin: 5px;
+    padding: 5px;
+    margin-top: 40px;
+}
+em{
+    font-style: italic;
+}
+.Bigbox{
+    width: 70vw;
+    grid-template-columns: 35vm 35vm;
+    grid-gap: 25px;
+    justify-content: center;
+    border: solid 5px black;
+    margin: 1px;
+    padding: 1px;
+    background-image: url("../image/Brown-Wood-Texture-Wallpaper.jpg");
+    width: 99%;
+    height: 300px;
+}
+
+.text{
+    display: grid;
+    background-color: transparent;
+    text-decoration: none;
+    justify-content:space-around;
+    z-index: 20;
+    direction:initial;
+    font-size: large;
+    color:cyan;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    text-decoration-line: none;
+    align-self: flex-end;
+    flex-direction: row;
+}
+.text1{
+    display: grid;
+    font-size: medium;
+    color:white;
+    background-color: transparent;
+    text-decoration: none;
+    justify-content:space-around;
+    z-index: 20;
+    direction:initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    text-decoration-line: none;
+    align-self: flex-end;
+    flex-direction: row;
+    text-align: center;
+}
+.tips{
+    border: 20px;
+    width: 100;
+    max-width: 50px;
+    height: 100px;
+
+}
+.click{
+    border-radius: 1.5px;
+    width: 150px;
+    height: 40px;
+    margin: 5px;
+    padding: 5px;
+    margin-top: 40px;
+    background-color:skyblue;
+}
+.backimg{
+    background-image: url("../image/4672e7278a6b2f5b0fea4acf59cc3650\ \(3\).jpg");
+}
+.secondimge{
+    text-align: center;
+    font-size: 140%;
+    font-family:fantasy;
+    background-image: url("../image/4672e7278a6b2f5b0fea4acf59cc3650\ \(3\).jpg");
+    padding: 1px;
+    width: 100%;
+}
+.moreinfo{
+    background-color: whitesmoke;
+    padding: 2px;
+    border:  2px solid rosybrown;
+    margin: 2px;
+    align-self: flex-end;
+    flex-direction: row;
+    font-weight: bolder;
+    letter-spacing: 0.2ch;
+}
+.image{
+    background-image: url("../image/mediterranean_diet_0.jpeg");
+    width: 100%;
+    height: 28vmax;
+    background-color: #333;
+    background-position: center top;
+    background-attachment: fixed;
+    display: flex;
+}
+.headlinks{
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    
+}
+nav{
+    display: flex;
+    padding: 1px;
+    color: #3a3dcfa8;
+    text-decoration-thickness: initial;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    background-color: transparent;
+    text-decoration: none;
+    justify-content:space-around;
+    z-index: 20;
+    direction:initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    text-decoration-line: none;
+    align-self: flex-end;
+    flex-direction: row;
+}
+.box50{
+    background-image: url("../image/Brown-Wood-Texture-Wallpaper.jpg");
+    background-position:right center;
+    background-color: #000;
+     text-align: center;
+     border: 5px solid;
+     margin: 10px;
+     padding: 19px;
+     font-family: 'Times New Roman', Times, serif;
+     justify-content: space-evenly;
+     flex-direction: row-reverse;
+     display:flex;
+     
+}
+.box{
+    width: 400px;
+    height: 400px;
+    border: solid rgba(255, 255, 255, 0.836) 8px;
+}
+.fotter{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgba(222, 184, 135, 0.795);
+    border: solid 5px;
+    margin: 2px;
+}
+}

@@ -1,0 +1,117 @@
+@media(min-width:800px){
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    background-color: turquoise;
+    border: 100px;
+    padding: 10px;
+    font-weight: 50px;
+    margin: 20px;
+}
+
+.image1{
+    margin-inline-end: 0%;
+}
+nav{
+    display: flex;
+    padding: 1px;
+    color: #3a3dcfa8;
+    text-decoration-thickness: initial;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    background-color: transparent;
+    text-decoration: none;
+    justify-content:space-around;
+    z-index: 20;
+    direction:initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    text-decoration-line: none;
+    align-self: flex-end;
+    flex-direction: row;
+}
+.backimg{
+    background-image: url("../image/4672e7278a6b2f5b0fea4acf59cc3650\ \(3\).jpg");
+}
+.secondimge{
+    text-align: center;
+    font-size: 140%;
+    background-image: url("../image/4672e7278a6b2f5b0fea4acf59cc3650\ \(3\).jpg");
+    padding: 1px;
+    width: 100%;
+    font-family:fantasy;
+}
+em{
+    font-style: italic;
+}
+.image{
+    background-image: url("../image/To_Project_Meze_10.20.jpg");
+    background-color: #333;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    background-position: center top;
+    background-attachment: fixed;
+    width: 100%;
+}
+.head{
+    color: rgb(0, 0, 0);
+}
+.lastbox{
+                        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+                        transition: 0.3s;
+                        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+                        padding: 2px 16px;
+                        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+                        transition: 0.3s;
+                        border-radius: 5px;
+                        border-radius: 5px 5px 0 0;
+}
+@media screen and (min-width: 700px){
+.Recipes{
+    background-image: url("../image/Brown-Wood-Texture-Wallpaper.jpg");
+    background-position:right center;
+    background-color: #000;
+     text-align: center;
+     padding: 1px;
+     font-family: 'Times New Roman', Times, serif;
+     height: 200%;
+     justify-content:initial;
+     display: flexbox;
+     border: solid 5px;
+     margin: 1px;
+}
+
+.box{
+    width: 32%;
+    height: 100%;
+    text-align: left;
+    color: rgba(248, 248, 248, 0.829);
+    border: solid rgba(255, 255, 255, 0.836) 8px;
+}
+.card{
+box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+  transition: 0.2ms;
+  width: 40%;
+}
+.container{
+    padding: 10px 14px;
+}
+.card:hover{
+    box-shadow: 0 8px 16px
+}
+.meshari{
+    margin-left: 950px;
+    border: 20px;
+}
+
+.fotter{
+    font-family: 'Times New Roman', Times, serif;
+    border: solid 5px;
+    margin: 2px;
+    text-align: center;
+    background-color: rgba(222, 184, 135, 0.795);
+}
+}
+}

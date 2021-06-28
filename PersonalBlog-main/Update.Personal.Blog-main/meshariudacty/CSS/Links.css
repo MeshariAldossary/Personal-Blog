@@ -1,0 +1,17 @@
+.mesharilinks{
+    display: flex;
+    padding: 2px;
+    color: #c40d0da8;
+    font-size: 15px;
+    font-weight: bolder;
+    background-color: transparent;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness:inherit;
+    text-decoration-style:inherit;
+    text-decoration-color: inherit;
+    flex-direction: row-reverse;
+    align-self: flex-end;
+    justify-content: space-around;
+    z-index: 10;
+}
